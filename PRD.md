@@ -1,5 +1,5 @@
 # Product Requirements Document (PRD)
-
+# developed by Joseph Moses - (c) 2025 Bonsai Entertainment LLC
 ## Project: MP3 Album Manager
 
 ### Purpose
